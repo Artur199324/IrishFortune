@@ -17,7 +17,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.IrishFortune">
         <activity
-            android:name=".IF"
+            android:name=".ac.IF"
             android:configChanges="orientation|screenSize"
             android:exported="true">
             <intent-filter>
@@ -26,13 +26,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".GAMIF"
+        <activity android:name=".ac.GAMIF"
             android:exported="true"/>
-        <activity android:name=".GAMTIF"
+        <activity android:name=".ac.GAMTIF"
             android:exported="true"/>
-        <activity android:name=".RulesIF"
+        <activity android:name=".ac.RulesIF"
             android:exported="true"/>
-        <activity android:name=".IFBU"
+        <activity android:name=".ac.IFBU"
             android:exported="true"/>
 
         <meta-data

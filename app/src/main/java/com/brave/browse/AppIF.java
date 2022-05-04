@@ -4,6 +4,8 @@ import android.app.Application;
 
 import androidx.lifecycle.ViewModelProvider;
 
+import com.brave.browse.vi.VieModIF;
+
 public class AppIF extends Application {
    public static VieModIF vieModIF;
     @Override
