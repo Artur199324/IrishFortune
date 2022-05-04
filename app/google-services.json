@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "778616103851",
+    "project_id": "irish-fortune",
+    "storage_bucket": "irish-fortune.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778616103851:android:d08bc9701473290e49e8ee",
+        "android_client_info": {
+          "package_name": "com.brave.browse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778616103851-83qs6fdenetm9tqi5f3u0okj1bf7boeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3kjmejWJMzbIOaxe1ds-cNctJNU7H9rE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778616103851-83qs6fdenetm9tqi5f3u0okj1bf7boeu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
